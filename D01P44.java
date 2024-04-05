@@ -3,7 +3,7 @@ package com.learning.core.day1session1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class D02P44 {
+public class D01P44 {
 	
 
     public static List<List<Integer>> findCombinations(int[] nums, int k) {

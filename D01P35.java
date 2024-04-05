@@ -2,7 +2,7 @@ package com.learning.core.day1session1;
 
 import java.util.Scanner;
 
-public class D02P035 {
+public class D01P35 {
 
 	public static void main(String []args)
     {

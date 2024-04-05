@@ -3,7 +3,7 @@ package com.learning.core.day1session1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class D02P43 {
+public class D01P43 {
 
 	public static int findFirstRepeatingIndex(int[] arr) {
         Map<Integer, Integer> map = new HashMap<>();

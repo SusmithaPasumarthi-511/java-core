@@ -2,7 +2,7 @@ package com.learning.core.day1session1;
 
 import java.util.Scanner;
 
-public class D02P031
+public class D01P31
 {
 	
 	   public static void displayMonth(int monthNum)
